@@ -1,0 +1,2 @@
+﻿*/5 * * * * root /usr/local/bin/system_report.sh >> /var/log/system_report.log 2>&1
+# Cron job to run the system report script every 5 minutes
