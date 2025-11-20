@@ -95,5 +95,4 @@ Files:
 
 ---
 
-## Repository Structure
 
